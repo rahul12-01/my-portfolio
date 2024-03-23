@@ -1,0 +1,74 @@
+@media only screen and (max-width: 1000px) {
+    body {
+        /* background-color: rgb(234, 234, 243); */
+    }
+
+    nav {
+        height: 4vh;
+    }
+
+    .left {
+        font-size: 13px;
+        margin-left: 20px;
+    }
+
+    .right a {
+        font-size: 12px;
+        margin-left: 21px;
+    }
+
+    hr {
+        margin: 71px 0px;
+    }
+
+    .lesec {
+        font-size: 24px;
+    }
+
+    .bt {
+        font-size: 11px;
+        padding: 8px 22px;
+        border-radius: 9px;
+    }
+
+    .download {
+        font-size: 13px;
+        margin-top: 16px;
+    }
+
+    .first {
+        margin: 0px 0px;
+    }
+
+    .risec {
+        width: 39%;
+        margin-top: 75px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .myskill {
+        font-size: 24px;
+    }
+
+    .skill {
+
+        height: 110px;
+        margin: 10px 10px 10px 10px;
+    }
+
+
+    .footer .content p {
+        font-size: 13px;
+    }
+
+    .footer .content a {
+        font-size: 13px;
+    }
+
+    .footer .content h4 {
+        font-size: 16px;
+    }
+}
